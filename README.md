@@ -1,5 +1,8 @@
-# duckhunt
+# DuckHunt game coded in Java language with the help of JavaFx
 DuckHunt Game with JavaFx
+
+
+
 
 /////////// Type Below: LOCATION OF DIR ///////////
 src/
